@@ -7,3 +7,30 @@
 /build
 /captures
 .externalNativeBuild
+
+
+#built application files
+*.apk
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+utils/libs/
+utils/src/main/res/drawable/
+.idea/
+
+Thumbs.db
+
+gradle.properties
+/app/gradle.properties
